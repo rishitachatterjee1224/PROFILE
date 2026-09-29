@@ -10,7 +10,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Software+Developer;First+Year+B.Tech+Student;Passionate+Coder" alt="Typing Animation" />
 
-### 💻 Software Developer | 🚀 Passionate Coder | 🌱 Constant Learner
+### 🌱 Constant Learner
 
 </div>
 
