@@ -8,9 +8,8 @@
 
 # 💛 WELCOME TO MY PROFILE 💛
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=RISHITA+CHATTERJEE;Software+Developer;First+Year+B.Tech+Student;Passionate+Coder" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=RISHITA+CHATTERJEE;Software+Developer;Passionate+Coder" alt="Typing Animation" />
 
-### 🌱 Constant Learner
 
 </div>
 
@@ -26,7 +25,7 @@
 <tr>
 <td>
 
-🎓 **First Year B.Tech Student**
+🎓 **First Year B.Tech Student at Physics Wallah Institute of Innovation **
 
 💻 **Passionate Software Developer**
 
@@ -125,13 +124,13 @@
 |   **1**   | Python Fundamentals (loops, recursion, OOP, file handling) |        **Completed ✅**        |
 |   **2**   | DSA in Python                                              |       **🔄 In Progress**      |
 |   **3**   | HTML                                                       |        **Completed ✅**        |
-|   **4**   | CSS                                                        |       **🔄 In Progress**      |
-|   **5**   | JavaScript Fundamentals                                    |       **🔄 In Progress**      |
+|   **4**   | CSS                                                        |        **🔄 In Progress**      |
+|   **5**   | JavaScript Fundamentals                                    |        **⏳ Upcoming **      |
 |   **6**   | Figma (UI/UX basics)                                       |        **Completed ✅**        |
 |   **7**   | Git & GitHub Workflow                                      |        **Completed ✅**        |
 |   **8**   | Backend Development (Node.js / APIs)                       |         **⏳ Upcoming**        |
 |   **9**   | Full Stack Projects                                        |         **⏳ Upcoming**        |
-|   **10**  | Advanced AI/ML Specialization                              | **⏳ Upcoming (basics first)** |
+|   **10**  | Advanced AI/ML Specialization                              |         **⏳ Upcoming ** |
 
 ---
 
