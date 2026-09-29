@@ -161,7 +161,7 @@
 
 # 🌟 A LITTLE ABOUT MY VISION
 
-> **"Learn. Code. Create. Improve. Repeat."**
+
 
 I believe every line of code is an opportunity to learn something new.
 
@@ -190,6 +190,6 @@ My journey has just started, and I am excited about everything that lies ahead. 
 
 ### ⭐ If you like my work, feel free to explore my repositories!
 
-### 🚀 Keep Learning • Keep Coding • Keep Building 🚀
+
 
 <br>
