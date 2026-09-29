@@ -155,25 +155,6 @@
 
 ---
 
-<div align="center">
-
-# 💻 WHAT I LOVE BUILDING
-
-```text
-          💡 Ideas
-             ↓
-        🧠 Creativity
-             ↓
-         💻 Coding
-             ↓
-       🔧 Problem Solving
-             ↓
-        🚀 Projects
-             ↓
-       🌎 Real Impact
-```
-
-</div>
 
 ---
 <div align="center">
