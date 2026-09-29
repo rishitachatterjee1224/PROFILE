@@ -6,9 +6,9 @@
 
 <div align="center">
 
-# 💛 RISHITA CHATTERJEE 💛
+# 💛 WELCOME TO MY PROFILE 💛
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Software+Developer;First+Year+B.Tech+Student;Passionate+Coder" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=RISHITA+CHATTERJEE;Software+Developer;First+Year+B.Tech+Student;Passionate+Coder" alt="Typing Animation" />
 
 ### 🌱 Constant Learner
 
