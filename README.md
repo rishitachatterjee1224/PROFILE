@@ -212,24 +212,6 @@ Learning → Practicing → Building → Failing → Improving → Building Agai
 
 </div>
 
----
-
-<div align="center">
-
-# 📊 MY CURRENT FOCUS
-
-|     💻 Area     | 🎯 Focus                 |
-| :-------------: | :----------------------- |
-|    🐍 Python    | DSA & Problem Solving    |
-|      ☕ Java     | Programming Fundamentals |
-|   🌐 HTML/CSS   | Web Development          |
-|   ⚡ JavaScript  | Web Interactivity        |
-|     🎨 Figma    | UI/UX Design             |
-| 🐙 Git & GitHub | Version Control          |
-|    🚀 Backend   | Node.js & APIs           |
-|     🤖 AI/ML    | Future Specialization    |
-
-</div>
 
 ---
 
