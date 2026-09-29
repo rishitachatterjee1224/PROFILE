@@ -226,39 +226,7 @@ I don't want to simply learn technology.
 ---
 
 <div align="center">
+<h1>LIFE X CODING</h1>
 
-## `MY JOURNEY`
-
-<br>
-
-```text
-              ╭──────────────╮
-              │    CURIOUS   │
-              ╰──────┬───────╯
-                     │
-                     ▼
-              ╭──────────────╮
-              │   LEARNING   │
-              ╰──────┬───────╯
-                     │
-                     ▼
-              ╭──────────────╮
-              │   BUILDING   │
-              ╰──────┬───────╯
-                     │
-                     ▼
-              ╭──────────────╮
-              │    FAILING   │
-              ╰──────┬───────╯
-                     │
-                     ▼
-              ╭──────────────╮
-              │  IMPROVING   │
-              ╰──────┬───────╯
-                     │
-                     ▼
-              ╭──────────────╮
-              │   CREATING   │
-              ╰──────────────╯
-
-                   ↻ REPEAT
+<p>✨ "Life is like coding — you write a line, face an error, debug your mistakes, learn from the process, and keep building until your code finally works. The same way, every mistake in life is not the end of the program; it is simply another opportunity to debug, improve, and run a better version of yourself." ✨
+</p>
