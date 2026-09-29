@@ -1,163 +1,264 @@
 <div align="center">
 
-# 🟡✨ RISHITA CHATTERJEE ✨🟡
-
-### 💻 Passionate Software Developer | 🎓 First-Year B.Tech Student
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5B1A2B&height=220&section=header&text=RISHITA%20CHATTERJEE&fontSize=48&fontColor=F6D58A&fontAlignY=38&animation=fadeIn&desc=PASSIONATE%20SOFTWARE%20DEVELOPER&descSize=18&descAlignY=58&descColor=FFFFFF"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=F4C430&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Rishita+Chatterjee+%F0%9F%91%8B;Passionate+Software+Developer+%F0%9F%92%BB;First-Year+B.Tech+Student+%F0%9F%8E%93;Turning+Ideas+Into+Code+%E2%9C%A8;Learning+Today%2C+Building+Tomorrow+%F0%9F%9A%80" alt="Typing SVG"/>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7A1F2B&height=120&section=header" width="100%"/>
-
-</div>
-
----
-
-# 🟤🟡 ABOUT ME
-
-<div align="center">
-
-> **"Code is not just something I write — it's something I use to turn ideas into possibilities."**
-
-</div>
-
-🎓 I am a **first-year B.Tech student at Physics Wallah Institute of Innovation (PW IOI).**
-
-💻 I am a **passionate Software Developer** who loves exploring technology and transforming ideas into practical solutions.
-
-🌱 I am currently focused on strengthening my programming fundamentals, building projects, and continuously learning new technologies.
-
-🚀 My goal is to become a skilled developer who can **build meaningful, innovative, and impactful software.**
-
----
-
-# 🟡💻 MY TECH STACK
-
-<div align="center">
-
-### Languages & Development
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=25&duration=2800&pause=1200&color=F6D58A&center=true&vCenter=true&width=800&lines=Building+Ideas+Into+Reality+%E2%9C%A6;Learning.+Creating.+Growing.+%E2%9C%A6;First-Year+B.Tech+Student+%7C+Developer;Code+With+Purpose.+Create+With+Passion." />
 
 <br><br>
 
-### Design
+<img src="https://img.shields.io/badge/✦_SOFTWARE_DEVELOPER_✦-5B1A2B?style=for-the-badge&labelColor=3D101D&color=F6D58A"/>
 
-<img src="https://skillicons.dev/icons?i=figma"/>
+</div>
+
+---
+
+<div align="center">
+
+## `ABOUT ME`
+
+### **A curious mind. A passionate coder. A future builder.**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+### **WHO I AM**
+
+I am **Rishita Chatterjee**, a passionate Software Developer and a **first-year B.Tech student at Physics Wallah Institute of Innovation (PW IOI)**.
+
+I love transforming ideas into code and continuously challenging myself to learn something new.
+
+My journey in technology has just begun, but my ambition is much bigger.
+
+<br>
+
+**Currently I am focused on:**
+
+- Building strong programming fundamentals
+- Developing real-world projects
+- Exploring modern technologies
+- Improving my problem-solving skills
+- Learning how great software is designed
+
+</td>
+
+<td width="45%" align="center">
+
+### `LEARN • BUILD • CREATE`
+
+<br><br>
+
+**✦**
+
+**TURNING IDEAS**
+
+**INTO CODE**
+
+**✦**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `TECHNOLOGIES I WORK WITH`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,figma&theme=dark&perline=6"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-5B1A2B?style=for-the-badge&logo=html5&logoColor=F6D58A"/>
+<img src="https://img.shields.io/badge/CSS3-5B1A2B?style=for-the-badge&logo=css3&logoColor=F6D58A"/>
+<img src="https://img.shields.io/badge/JavaScript-5B1A2B?style=for-the-badge&logo=javascript&logoColor=F6D58A"/>
+<img src="https://img.shields.io/badge/Java-5B1A2B?style=for-the-badge&logo=openjdk&logoColor=F6D58A"/>
+<img src="https://img.shields.io/badge/Python-5B1A2B?style=for-the-badge&logo=python&logoColor=F6D58A"/>
+<img src="https://img.shields.io/badge/Figma-5B1A2B?style=for-the-badge&logo=figma&logoColor=F6D58A"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `WHAT I LOVE`
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### ◈
+
+**CODING**
+
+Building, experimenting and solving problems through code.
+
+</td>
+
+<td align="center" width="25%">
+
+### ◇
+
+**READING**
+
+Exploring ideas, perspectives and knowledge beyond the classroom.
+
+</td>
+
+<td align="center" width="25%">
+
+### ✦
+
+**TRAVELING**
+
+Discovering new places, cultures and experiences.
+
+</td>
+
+<td align="center" width="25%">
+
+### ❖
+
+**MUSIC**
+
+Finding creativity, energy and inspiration through music.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## `WHY WORK WITH ME?`
+
+### **I bring curiosity, commitment and the willingness to grow.**
 
 </div>
 
 <br>
 
-| Technology | What I'm Exploring |
-|:---:|:---|
-| 🟠 **HTML** | Building structured & accessible websites |
-| 🟡 **CSS** | Creating beautiful & responsive interfaces |
-| 🟨 **JavaScript** | Adding interaction & dynamic functionality |
-| 🔴 **Java** | Object-oriented programming & application development |
-| 🔵 **Python** | Programming, automation & problem solving |
-| 🟣 **Figma** | UI/UX design & creative interface concepts |
+<table align="center">
 
----
+<tr>
 
-# 🟤🟡 WHAT I LOVE DOING
+<td width="50%">
 
-<div align="center">
+### **01 — CURIOUS**
 
-| 💻 CODING | 📚 READING | ✈️ TRAVELING | 🎧 MUSIC |
-|:---:|:---:|:---:|:---:|
-| Building & experimenting | Learning new ideas | Exploring new places | Finding inspiration |
+I don't just want to know *what* works.
 
-</div>
+I want to understand **why it works**.
 
-### 💻 Coding
+</td>
 
-I enjoy solving problems, experimenting with code, and turning concepts into working projects.
+<td width="50%">
 
-### 📚 Reading
+### **02 — ADAPTABLE**
 
-Reading helps me discover new perspectives, ideas, technologies, and ways of thinking.
+Technology constantly changes.
 
-### ✈️ Traveling
+I enjoy learning new tools, languages and approaches.
 
-Traveling allows me to explore new places, cultures, experiences, and perspectives.
+</td>
 
-### 🎧 Listening to Music
+</tr>
 
-Music keeps me motivated, creative, and energized while I work and learn.
+<tr>
 
----
+<td width="50%">
 
-# 🟡⚡ WHY SHOULD COMPANIES HIRE ME?
+### **03 — CREATIVE**
 
-<div align="center">
+I combine programming with my interest in design and UI/UX to think beyond functionality.
 
-## **I DON'T JUST WANT A JOB — I WANT TO CREATE VALUE. 🚀**
+</td>
 
-</div>
+<td width="50%">
 
-### ✨ Curious Mind
+### **04 — DETERMINED**
 
-I constantly want to understand **how** and **why** things work.
+Being at the beginning of my journey motivates me to learn faster, build more and improve continuously.
 
-### 🔥 Passion for Technology
+</td>
 
-Software development genuinely interests me, and I enjoy learning through hands-on practice.
+</tr>
 
-### 📈 Growth Mindset
+<tr>
 
-As a first-year student, I know I have a lot to learn — and I am excited about that journey.
+<td width="50%">
 
-### 🧩 Problem Solver
+### **05 — PROBLEM SOLVER**
 
-I enjoy breaking problems into smaller pieces and finding logical solutions.
+I enjoy breaking complex problems into smaller pieces and finding logical solutions.
 
-### 🎨 Creative Thinking
+</td>
 
-My interest in development and Figma allows me to think about technology from both functional and visual perspectives.
+<td width="50%">
 
-### 🤝 Adaptability
-
-I am comfortable learning new tools, technologies, and approaches as projects require them.
-
-### 🚀 Ambition
+### **06 — AMBITIOUS**
 
 I don't want to simply learn technology.
 
-**I want to use it to build things that matter.**
+**I want to create with it.**
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🟤💡 MY DEVELOPMENT JOURNEY
-
 <div align="center">
 
+## `MY JOURNEY`
+
+<br>
+
 ```text
-              ┌───────────────────┐
-              │      CURIOUS      │
-              └─────────┬─────────┘
-                        ↓
-              ┌───────────────────┐
-              │      LEARNING     │
-              └─────────┬─────────┘
-                        ↓
-              ┌───────────────────┐
-              │      BUILDING     │
-              └─────────┬─────────┘
-                        ↓
-              ┌───────────────────┐
-              │     IMPROVING     │
-              └─────────┬─────────┘
-                        ↓
-              ┌───────────────────┐
-              │      CREATING     │
-              └─────────┬─────────┘
-                        ↓
-              ┌───────────────────┐
-              │      IMPACT       │
-              └───────────────────┘
+              ╭──────────────╮
+              │    CURIOUS   │
+              ╰──────┬───────╯
+                     │
+                     ▼
+              ╭──────────────╮
+              │   LEARNING   │
+              ╰──────┬───────╯
+                     │
+                     ▼
+              ╭──────────────╮
+              │   BUILDING   │
+              ╰──────┬───────╯
+                     │
+                     ▼
+              ╭──────────────╮
+              │    FAILING   │
+              ╰──────┬───────╯
+                     │
+                     ▼
+              ╭──────────────╮
+              │  IMPROVING   │
+              ╰──────┬───────╯
+                     │
+                     ▼
+              ╭──────────────╮
+              │   CREATING   │
+              ╰──────────────╯
+
+                   ↻ REPEAT
