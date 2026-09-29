@@ -97,15 +97,15 @@
 
 # 🛠️ TECH STACK
 
-### 💻 Programming Languages
+
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 
-### 🌐 Web Development
+
 
 <img src="https://skillicons.dev/icons?i=html,css" />
 
-### 🎨 Design & Development Tools
+
 
 <img src="https://skillicons.dev/icons?i=figma,github" />
 
@@ -145,30 +145,10 @@
 <td>
 
 ### 🚀 Passion for Software Development
-
-I am genuinely passionate about **software development and coding**.
-I enjoy understanding how technology works and turning ideas into useful projects.
-
 ### 💻 Strong Learning Mindset
-
-As a first-year B.Tech student, I am continuously expanding my technical knowledge and improving my programming skills.
-
 ### 🧠 Problem-Solving Mindset
-
-Coding motivates me to think logically, solve problems and find better ways to build solutions.
-
 ### 🌱 Always Ready to Learn
-
-Technology is constantly evolving, and I am excited to learn new languages, frameworks, tools and development practices.
-
 ### 🔥 Passion + Consistency
-
-I believe that great developers are built through **curiosity, practice, consistency and continuous learning**.
-
-### 🎯 My Goal
-
-My goal is to grow into a skilled **Software Developer**, build meaningful projects and contribute to innovative teams.
-
 </td>
 </tr>
 </table>
