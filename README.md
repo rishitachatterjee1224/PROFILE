@@ -125,12 +125,12 @@
 |   **2**   | DSA in Python                                              |       **🔄 In Progress**      |
 |   **3**   | HTML                                                       |        **Completed ✅**        |
 |   **4**   | CSS                                                        |        **🔄 In Progress**      |
-|   **5**   | JavaScript Fundamentals                                    |        **⏳ Upcoming **      |
+|   **5**   | JavaScript Fundamentals                                    |        **⏳ Upcoming**      |
 |   **6**   | Figma (UI/UX basics)                                       |        **Completed ✅**        |
 |   **7**   | Git & GitHub Workflow                                      |        **Completed ✅**        |
 |   **8**   | Backend Development (Node.js / APIs)                       |         **⏳ Upcoming**        |
 |   **9**   | Full Stack Projects                                        |         **⏳ Upcoming**        |
-|   **10**  | Advanced AI/ML Specialization                              |         **⏳ Upcoming ** |
+|   **10**  | Advanced AI/ML Specialization                              |         **⏳ Upcoming** |
 
 ---
 
@@ -196,24 +196,6 @@ My goal is to grow into a skilled **Software Developer**, build meaningful proje
 </div>
 
 ---
-
-<div align="center">
-
-# 🌱 MY DEVELOPER JOURNEY
-
-```text
-Learning → Practicing → Building → Failing → Improving → Building Again 🚀
-```
-
-### ✨ I don't just want to learn technology.
-
-### ✨ I want to use technology to create something meaningful.
-
-</div>
-
-
----
-
 <div align="center">
 
 # 🌟 A LITTLE ABOUT MY VISION
